@@ -1,4 +1,4 @@
-# redmi-note-8-unlock-script
+# Redmi Note 8 Unlock Script
 A simple script that unlocks a redmi note 8 from being locked after you have lost access to your xiaomi account
 
 The script executes the following adb commands
