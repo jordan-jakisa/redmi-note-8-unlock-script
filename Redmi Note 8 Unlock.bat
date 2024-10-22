@@ -34,5 +34,5 @@ echo Disable Mi Cloud Sync
 adb shell pm uninstall --user 0 com.miui.micloudsync
 pause
 
-echo Commands run succesfuly
+echo Commands were executed successfully!
 pause
