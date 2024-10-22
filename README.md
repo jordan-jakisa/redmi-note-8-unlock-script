@@ -9,4 +9,4 @@ The script executes the following adb commands
 4. adb shell pm uninstall --user 0 com.miui.cloudservice
 5. adb shell pm uninstall --user 0 com.miui.micloudsync
 
-It is require to have adb installed or and added to the path variables
+It is required to have adb installed and added to the path variables otherwise the script will not work.
